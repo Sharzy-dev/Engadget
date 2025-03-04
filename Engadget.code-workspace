@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Documents/GitHub/E-commerce-shop-demo"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Engadget"
+	}
+}
